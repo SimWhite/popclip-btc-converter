@@ -23,4 +23,4 @@ Based on @hewigovens [CurrencyConvert](https://github.com/hewigovens/CurrencyCon
     	
 ### Reference
 * [PopClip Extensions](https://github.com/pilotmoon/PopClip-Extensions)
-* [Open Exchange Rates Ltd.](https://openexchangerates.org/quick-start)
+* [CryptoCompare](https://www.cryptocompare.com/api/)
